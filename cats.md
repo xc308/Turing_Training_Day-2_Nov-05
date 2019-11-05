@@ -8,7 +8,10 @@ I also want a grey cat.
 What about a grey kitten?
 But my mum doesn't like cats. 
 
-I used to like dogs as well, but now I only like cats. 
+<<<<<<< HEAD
+=======
+I used to like dogs well, but now I only like cats.
+All Cats Are Beautiful
 
 Jin: change the cats file
 
