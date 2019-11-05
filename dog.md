@@ -1,3 +1,3 @@
 Dogs
 ====
-When I was a kid, I like dogs.
+When I was a kid, I liked dogs.
