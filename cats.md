@@ -5,12 +5,13 @@ I like black cats.
 I once had a black kitten.
 I want to have a black cat.
 I also want a grey cat.
+What about a grey kitten?
 But my mum doesn't like cats. 
 
+<<<<<<< HEAD
+=======
 I used to like dogs well, but now I only like cats.
 All Cats Are Beautiful
-
-I used to like dogs as well, but now I only like cats. 
 
 Jin: change the cats file
 
