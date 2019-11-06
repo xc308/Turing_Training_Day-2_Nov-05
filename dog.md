@@ -9,3 +9,5 @@ Some kinds of dogs are still lovely to me,esp. those who have a life-long commit
 
 However, cats seem to be more quiet and more independent. 
 
+How can you say so much about cats and not love dogs. Dogs are far far better!
+
