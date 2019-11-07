@@ -7,11 +7,13 @@ I want to have a black cat.
 I also want a grey cat.
 What about a grey kitten?
 But my mum doesn't like cats. 
+I used to like dogs as well, but now I only like cats.
+Do you like cats? Leave your answers here.
+
+yes
 
 I used to like dogs well, but now I only like cats.
 All Cats Are Beautiful
+Great idea! Who said that?
 
-Jin: change the cats file
-
-Jin: maybe I will get conflict.
 
